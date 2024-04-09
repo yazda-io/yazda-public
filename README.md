@@ -1,11 +1,20 @@
+# Yazda - Driving School management system 
+
 <p align="center">
   <a href="https://yazda.co">
-    <img src="https://github.com/yazda-io/yazda-public/main/blob/yazda-dark.png" height="200px">
+    <img src="https://github.com/yazda-io/yazda-public/blob/main/yazda-dark.png" height="350px">
   </a>
 </p>
 
 
-Yazda is a driving school application that revolutionizes the learning experience for students and simplifies administrative tasks for instructors. Here are some key features:
+***Yazda*** is a driving school application that revolutionizes the learning experience for students and simplifies administrative tasks for instructors. Here are some key features:
+
+## App Gallery
+  <img src="https://github.com/yazda-io/yazda-public/blob/main/1.png" height="350px"> <img src="https://github.com/yazda-io/yazda-public/blob/main/2.png" height="350px">
+  <img src="https://github.com/yazda-io/yazda-public/blob/main/3.png" height="350px">
+  <img src="https://github.com/yazda-io/yazda-public/blob/main/4.png" height="350px">
+  <img src="https://github.com/yazda-io/yazda-public/blob/main/5.png" height="350px">
+
 
 ## Features
 
@@ -59,3 +68,4 @@ Yazda is a driving school application that revolutionizes the learning experienc
 
 Yazda aims to streamline the management of driving courses and enhance communication between students and instructors, making the learning process efficient and enjoyable.
 
+Team Yazda core ✨
