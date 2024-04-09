@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://yazda.io">
-    <img src="https://example.com/yazda_logo.png" height="200px">
+  <a href="https://yazda.co">
+    <img src="https://github.com/yazda-io/yazda-public/main/blob/yazda-dark.png" height="200px">
   </a>
 </p>
 
